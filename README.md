@@ -13,4 +13,10 @@
 在終端機執行：
 ```bash
 pip install -r requirements.txt
-``
+```
+
+## 授權
+
+本專案採用 MIT License。
+
+詳細內容請參閱 [LICENSE](https://github.com/Wayne27304/You-can-try-lol/blob/main/LICENSE)。
